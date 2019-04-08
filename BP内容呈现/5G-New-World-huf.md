@@ -47,6 +47,6 @@ ITU IMT-2020规范要求速度高达20 Gbit/s，可通过宽信道带宽和大�
 ![5GNewWorld04](http://www.jinhuaji.net/2019-04-08-5GNewWorld04.png)
 
 
-
+**未来数据大爆发，将给个人或组织安全带来什么挑战？我们又有哪些对策？**
 
 
